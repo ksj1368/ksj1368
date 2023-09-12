@@ -13,4 +13,4 @@
 - [[Dacon]포디블록 구조 추출 AI 경진대회](https://dacon.io/competitions/official/236046/overview/description)(2023.01.02 ~ 2023.01.30) : 158/461
 - [[Dacon]제2회 코스포 x 데이콘 도서 추천 알고리즘 AI경진대회](https://dacon.io/competitions/official/236093/overview/description)(2023.04.17 ~ 2023.05.15) : 11/679(1.6%)
 - [[Dacon]월간 데이콘 음성 감정 인식 AI 경진대회](https://dacon.io/competitions/official/236105/overview/description)(2023.05.07 ~ 2023.06.05) : 47/431(10.1%)
-- [[AIFactory]2023 제1회 철도 인공지능 경진대회](https://aifactory.space/task/2511/overview)(2023.07.17 ~ 2023.08.28) : 5/68(7.3%) 본선 진출 
+- [[AIFactory]2023 제1회 철도 인공지능 경진대회](https://aifactory.space/task/2511/overview)(2023.07.17 ~ 2023.08.28) : 5/68(7.3%) 장려상
