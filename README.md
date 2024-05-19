@@ -1,5 +1,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksj1368%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-- [이력서](https://drive.google.com/file/d/1-sunu7V1fAEn_zo7Rb-e2hAWFCzVEdku/view?usp=drive_link)
 - 인하대학교(2017.03 ~ 2024.02)
 - 주전공: 공간정보공학과
 - 복수전공: 통계학과
